@@ -5,7 +5,15 @@
 [:link: Deployment Link](https://tabishnehal.github.io/City-Skyline/)
 ---
 
+### CSS concepts learned :fire: and applied :hammer_and_wrench:
+ - CSS Variables.
+ - CSS Flexbox.
+ - CSS Transform.
+ - CSS Transition.
+ - CSS linear-gradient.
+ - CSS radial-gradient.
+ - CSS repeating-linear-gradient.
 
-If you also want to learn CSS variables like I learnt then head over to :link: [w3schools](https://www.w3schools.com/css/css3_variables.asp), :link: [freeCodeCamp](https://www.freecodecamp.org/).
+If you also want to learn above CSS concepts like I learnt then head over to :link: [w3schools](https://www.w3schools.com/css/), :link: [freeCodeCamp](https://www.freecodecamp.org/).
 
 Don't forget to star :star: if you found it useful.
